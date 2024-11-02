@@ -2,7 +2,7 @@
 
 
 > [!TIP]
-> Generated a barcode for your products automatically and easily too.
+> Generated a barcode for your products automatically and easily with Python(Django).
 
 Example: 
 
